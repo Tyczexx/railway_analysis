@@ -21,7 +21,7 @@ This dataset contains customer-level shopping records, including e.g:
 Here you can find few .sql files:
 - one file with some DDL commands helping me to normalize new created database (`database_preparation.sql`)
 - one file with analysis for specific business questions (`main.analysis.sql`).
-During analysis, I focused on using advanced statements or funcions like  **Common Table Expression (CTE)** , **Window funcions** or **Aggregations** .
+During analysis, I focused on using advanced statements or funcions like  **Common Table Expression (CTE)** , **Window funcions** or **aggregations** .
 
 ### ⚙️ Tools & Technologies used for the project
 - **Excel** – used in initial data checks, before creating new schema with tables in SQL.  
